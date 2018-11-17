@@ -14,9 +14,9 @@ keep_files:
 
 
 # Site settings
-title: Ben Cooley
-subtitle: "Full Stack Software Engineer"
-url: "http://bmcooley.github.io" # the base hostname & protocol for your site
+title: Meadow House Floral Design
+subtitle: "New York Wedding Flowers"
+url: "http://meadowhouse.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
 cover: "/assets/cover.png"
