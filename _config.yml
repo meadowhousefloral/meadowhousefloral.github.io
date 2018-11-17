@@ -10,3 +10,5 @@ remote_theme: old-jekyll-templates/Twenty-Jekyll-Theme
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
